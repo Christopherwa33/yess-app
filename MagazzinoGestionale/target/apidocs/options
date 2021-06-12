@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Utente/.m2/repository/javax/javaee-web-api/6.0/javaee-web-api-6.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Utente/Documents/NetBeansProjects/MagazzinoGestionale/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Utente/Documents/NetBeansProjects/MagazzinoGestionale/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MagazzinoGestionale 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/6/docs/api' 'C:/Users/Utente/Documents/NetBeansProjects/MagazzinoGestionale/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'MagazzinoGestionale 1.0-SNAPSHOT API'
